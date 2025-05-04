@@ -72,5 +72,5 @@ A fun physics-based game I created during my early university days. Includes bou
 
 <p align="center">
   <em>Made with ☕, 🌌, and a whole lot of logic.</em><br/>
-  <sub>Visuals inspired by my <a href="(https://ghua8088.github.io/Portfolio/#)">💪😁portfolio site</a></sub>
+  <sub>Visuals inspired by my <a href="https://ghua8088.github.io/Portfolio/">💪😁portfolio site</a></sub>
 </p>
