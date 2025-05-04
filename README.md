@@ -54,6 +54,18 @@ A fun physics-based game I created during my early university days. Includes bou
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghua8088&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghua8088&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghua8088&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 | Platform | Link |
@@ -62,7 +74,7 @@ A fun physics-based game I created during my early university days. Includes bou
 | 💼 LinkedIn | [Raghuraamm](https://www.linkedin.com/in/raghu-raamm-914a33300/) |
 | 💻 GitHub | [Ghua8088](https://github.com/Ghua8088) |
 | 🧩 LeetCode | [Ghua8088](https://leetcode.com/Ghua8088/) |
-| 💬 Discord | `Goo ahh#1739` |
+| 💬 Discord | Goo ahh#1739 |
 
 ---
 
