@@ -1,4 +1,3 @@
-i have already done somethings in readme.md can u add stats and stuff remaining true to my style:)
 <h1 align="center">🌠 Raghuraamm</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F3F3F3&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Aspiring+Data+Scientist;Problem+Solver;Middle-End+Developer" alt="Typing SVG" />
@@ -52,6 +51,18 @@ An AI-powered IDE inspired by **VS Code**, designed to bring autofill intelligen
 
 ### 🎮 [Dynamic Java Game - Star Chasing](https://github.com/Ghua8088/Starchasing)
 A fun physics-based game I created during my early university days. Includes bouncing mechanics and star collisions.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghua8088&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghua8088&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghua8088&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
