@@ -12,7 +12,7 @@
 Hello! I’m **Raghuraamm**, a curious mind from Chennai, India 🇮🇳.  
 I specialize in **AI/ML**, enjoy designing logical systems, and love making ideas real with code.  
 
-- 🧠 **250+ LeetCode problems** solved  
+- 🧠 **350+ LeetCode problems** solved  
 - 💻 **Projects** built with love and logic  
 - 📚 Lifelong learner with multiple certifications  
 - 🎯 Currently focused on **ML**, **Java**, and **Full Stack Logic**
