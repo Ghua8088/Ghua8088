@@ -1,6 +1,6 @@
 <h1 align="center">🌠 Raghuraamm</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F3F3F3&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Aspiring+Data+Scientist;Problem+Solver;Middle-End+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F3F3F3&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Aspiring+Data+Scientist;Problem+Solver;FullStack+Developer" alt="Typing SVG" />
 </p>
 
 ---
