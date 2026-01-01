@@ -1,88 +1,89 @@
-<h1 align="center">🌠 Raghuraamm</h1>
+<h1 align="center">🌠 Ghua8088 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F3F3F3&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Aspiring+Data+Scientist;Problem+Solver;FullStack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F3F3F3&center=true&vCenter=true&width=500&lines=Framework+Creator;Full-Stack+Engineer;Problems Solver" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://pytron-kit.github.io/"><b>Pytron Official</b></a> •
+  <a href="https://ghua8088.github.io/blog/#/"><b>Deep-Dive Blog</b></a> •
+  <a href="https://ghua8088.github.io/Portfolio/"><b>Interactive Portfolio</b></a>
 </p>
 
 ---
 
-## 🌌 About Me
+## 🌌 The Mission
 
-> “Building smart things with code & caffeine.”
+> "Architecting the bridge between the hard the easy and  making seamless User Experiences."
 
-Hello! I’m **Raghuraamm**, a curious mind from Chennai, India 🇮🇳.  
-I specialize in **AI/ML**, enjoy designing logical systems, and love making ideas real with code.  
+I’m a Software Architect based in Chennai, India 🇮🇳, dedicated to bridging the gap between complex AI reasoning and seamless user experiences. I build **Agentic Workflows**, **Neural Frameworks**, and the engines that power them.
 
-- 🧠 **350+ LeetCode problems** solved  
-- 💻 **Projects** built with love and logic  
-- 📚 Lifelong learner with multiple certifications  
-- 🎯 Currently focused on **ML**, **Java**, and **Full Stack Logic**
+-  **Agentic Specialist**: Architecting autonomous AI assistants with deep system integration.
+-  **Framework Creator**: Lead developer of **Pytron-Kit**, the engine for high-performance Python-web apps.
+-  **Neural Researcher**: Building deep learning frameworks from the ground up (GDnet).
+-  **Technical Thinker**: Writing about LLM reasoning and system design on my [blog](https://ghua8088.github.io/blog/#/).
 
 ---
 
-## 🛠️ Languages & Tools
+##  Featured Ecosystem
 
-### 💬 Languages
+### [Agentic](https://github.com/Ghua8088/Agentic) — *Autonomous Intelligence*
+**My Flagship AI Workspace.** A state-of-the-art, local-first AI assistant designed for deep system automation.
+-  **70+ Native Tools**: From Playwright web scraping to sandboxed Python execution.
+-  **Recursive Reasoning**: Sophisticated multi-step planning and self-reflection loops.
+-  **Long-Term Memory**: Local RAG using FAISS and FastEmbed—100% private.
+-  **Premium UI**: Glassmorphic interface with real-time **Artifact Previews**.
+-  **MCP Ready**: First-class support for the Model Context Protocol.
+
+###  [Pytron Kit](https://github.com/Ghua8088/pytron) — *The Engine*
+The framework behind Agentic. It allows developers to build cross-platform desktop apps with **Python backends** and **React frontends** using a high-performance, type-safe IPC bridge.
+[Explore the Docs →](https://pytron-kit.github.io/)
+
+###  [GDnet](https://github.com/Ghua8088/GDnet) — *Neural Framework*
+A deep learning framework built from scratch in NumPy/CuPy. Implements Autograd, Transformers, and Dense layers to demystify the "black box" of AI.
+
+---
+
+## Tech Stack & Agentic Tools
+
+### Agentic & AI Orchestration
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+</p>
+
+### Systems & Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-### 🔧 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧬 [Simple Medical Vaccine Classifier](https://github.com/Ghua8088/Simple-medical-vaccine-classifier)
-A neural network classifier using **Keras** to detect Neptune attacks from data patterns. Clean, functional, and practical.
-
-### 🧠 [Java IDE with AI Autofill](https://github.com/Ghua8088/HSide)
-An AI-powered IDE inspired by **VS Code**, designed to bring autofill intelligence into basic Java development.
-
-### 🎮 [Dynamic Java Game - Star Chasing](https://github.com/Ghua8088/Starchasing)
-A fun physics-based game I created during my early university days. Includes bouncing mechanics and star collisions.
-
----
-
-## 📊 GitHub Stats
+## Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghua8088&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghua8088&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghua8088&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghua8088&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghua8088&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## Let's Build the Future
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | [raghusony2005@gmail.com](mailto:raghusony2005@gmail.com) |
-| 💼 LinkedIn | [Raghuraamm](https://www.linkedin.com/in/raghu-raamm-914a33300/) |
-| 💻 GitHub | [Ghua8088](https://github.com/Ghua8088) |
-| 🧩 LeetCode | [Ghua8088](https://leetcode.com/Ghua8088/) |
-| 💬 Discord | Goo ahh#1739 |
+I am actively looking for contributors for **Agentic** and **Pytron-Kit**. If you're interested in AI agents, system architecture, or high-performance UIs, let's connect.
 
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-starfield-or-night-theme.gif" alt="Cosmic Background" width="100%" />
-</p>
+| Platform | Reach Out |
+|----------|----------|
+|  **Blog** | [ghua8088.github.io/blog/](https://ghua8088.github.io/blog/#/) |
+| **LinkedIn** | [Raghuraamm](https://www.linkedin.com/in/raghu-raamm-914a33300/) |
+| **LeetCode** | [Ghua8088](https://leetcode.com/Ghua8088/) |
+|  **Email** | [raghusony2005@gmail.com](mailto:raghusony2005@gmail.com) |
 
 <p align="center">
-  <em>Made with ☕, 🌌, and a whole lot of logic.</em><br/>
-  <sub>Visuals inspired by my <a href="https://ghua8088.github.io/Portfolio/">💪😁portfolio site</a></sub>
+  <em>Built with ☕, 🌌, and Agentic Logic.</em><br/>
 </p>
