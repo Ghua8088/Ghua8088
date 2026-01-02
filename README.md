@@ -1,7 +1,5 @@
 <h1 align="center">🌠 Ghua8088 </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F3F3F3&center=true&vCenter=true&width=500&lines=Framework+Creator;Full-Stack+Engineer;Neural+Researcher;Agentic+Specialist" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <a href="https://pytron-kit.github.io/"><b>Pytron Official</b></a> •
